@@ -63,4 +63,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple Test Post](https://dev.to/iskarr/simple-test-post-127g)
 <!-- BLOG-POST-LIST:END -->
