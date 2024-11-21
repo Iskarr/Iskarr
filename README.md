@@ -7,7 +7,7 @@
   <a href="[https://www.youtube.com/channel/UCXZLvCSNsyo0uBG0eszJzug](https://www.youtube.com/@mythiccode10)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="(https://x.com/mythiccode10)">
+  <a href="https://x.com/mythiccode10">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
